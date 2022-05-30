@@ -1,3 +1,12 @@
 [submodule "kiauh"]
 	path = kiauh
 	url = https://github.com/th33xitus/kiauh.git
+[submodule "klipper"]
+	path = klipper
+	url = https://github.com/Klipper3d/klipper.git
+[submodule "moonraker"]
+	path = moonraker
+	url = https://github.com/Arksine/moonraker.git
+[submodule "mjpg-streamer"]
+	path = mjpg-streamer
+	url = https://github.com/jacksonliam/mjpg-streamer.git
