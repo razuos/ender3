@@ -1,0 +1,14 @@
+.bash*
+.cache
+.config
+gcode_files
+.gnupg
+kiauh_backups
+klipper_logs
+klippy-env
+.local
+moonraker-env
+.moonraker_database
+.profile
+.ssh
+.wget-hsts
